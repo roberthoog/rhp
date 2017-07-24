@@ -1,0 +1,79 @@
+/*
+Theme Name: Virtue
+Theme URI: https://kadencethemes.com/product/virtue-free-theme/
+Description: The Virtue theme is extremely versatile with tons of options, easy to customize and loaded with great features. Virtue has Schema microdata integrated making it a step ahead for your sites SEO ranks. The clean modern design is built with html5 and css3 and uses the powerful responsive framework from Bootstrap to be a fully responsive and mobile friendly. It's fully ecommerce (Woocommerce) ready with all the tools you need to design an awesome online store. The versatile design is perfect for any kind of business, online store, portfolio or personal site. Virtue is Schema ready. We built Virtue with a powerful options panel where you can set things like your home layout, sliders, custom fonts, and completely customize your look without writing any CSS. You are going to love how easy this theme is to work with. Virtue was built and designed by <a href="http://kadencethemes.com/">Kadence Themes</a>.
+Version: 3.0.0
+Author: Kadence Themes
+Author URI: https://kadencethemes.com/
+Tags: custom-colors, two-columns, one-column, custom-header, custom-menu, featured-images, translation-ready, theme-options, blog, e-commerce, portfolio, rtl-language-support
+Text Domain: virtue
+
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl.html
+*/
+.woocommerce form .form-row .input-checkbox, .woocommerce-page form .form-row .input-checkbox {
+    display: inline;
+    margin: -2px 8px 0 0;
+    text-align: center;
+    vertical-align: middle;
+    width: 35px!important;
+    height: 35px!important;
+}
+.input-checkbox > span {
+	font-size:22px!important;
+	font-weight: 900;
+}
+body {
+	background-image: radial-gradient(51% 96%, #E7E9E4 10%, #D4D6D1 96%)!important;
+}
+.form-row .wc-terms-and-conditions .woocommerce-validated {
+    width:28px;
+    height:28px;
+    background-color: lightgreen;
+}
+
+.terms input {
+
+    width:28px;
+    height:28px;
+    background-color: lightgreen;
+
+}
+
+#payment div p label span {
+    width:28px;
+    height:28px;
+    background-color: lightgreen;
+    padding: 20px;
+    color:#fff;
+}
+
+.woocommerce-form__input-checkbox  {
+    width:28px;
+    height:28px;
+    background-color: lightgreen;
+
+}
+
+blockquote p {
+    font-size: 19px;
+    line-height: 1.45;
+    font-weight: 900;
+}
+
+h1 {
+    padding: 10px 10px 10px 0;
+}
+
+#menu-social-menu {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ad-pad-20 {
+    padding: 20px!important;
+    border: 2px solid red!important;
+}
+.pad-20 {
+    padding: 20px;
+}
